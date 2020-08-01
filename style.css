@@ -132,6 +132,8 @@ h2 {
 
 .contenedor-img {
   box-sizing: border-box;
+  width: 90px;
+  height: 90px;
 }
 
 /* Aca empieza Footer */
